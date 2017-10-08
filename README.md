@@ -6,5 +6,5 @@ Mainly used for NLP data preparation
 
 Copyright © 2017 Mohsin Uddin
 
-All code belonging to to other authors is released under their respective licenses.
+All code belonging to other authors is released under their respective licenses.
 
